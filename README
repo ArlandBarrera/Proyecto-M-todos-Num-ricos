@@ -7,3 +7,10 @@
 #4. Método de Newton
 #4.1 Intervalos Variables
 #4.2 Diferencias Divididas hacia adelante
+#
+#-Instrucciones para ejecutar los códigos escritos en Python:
+#1. Verificar que se tengan instaladas en el sistema las siguientes librerias: numpy, sympy, tkinter, matplotlib
+#
+#-Para instalar o verificar las librerías, hay que digitar lo siguiente en el cmd del sistema operativo:
+#pip install [librería] ; ejemplo: pip install numpy
+#
